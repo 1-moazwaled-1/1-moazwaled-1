@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Moaz Waled
 
-<!--
-**1-moazwaled-1/1-moazwaled-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer
 
-Here are some ideas to get you started:
+I'm a Front-End Developer focused on building modern, responsive, and user-friendly web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas and business requirements into clean and functional websites using modern front-end technologies.
+
+## 💻 Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Tailwind CSS
+* Vite
+
+## 🚀 Featured Project
+
+### IBS-GATA — Marketing Agency Website
+
+A responsive marketing agency website built to give the company a professional online presence, showcase its services and products, and make it easier for potential customers to get in touch.
+
+🔗 **Live Demo:** https://ibs-gata.vercel.app/
+🔗 **Repository:** https://github.com/1-moazwaled-1/IBS-GATA
+
+## 🌐 Portfolio
+
+🔗 https://moaz-liard.vercel.app/
+
+## 📫 Contact
+
+I'm currently looking for opportunities to work as a Front-End Developer and build real-world web projects.
+
+Feel free to check out my portfolio and projects.
